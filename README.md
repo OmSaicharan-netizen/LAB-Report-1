@@ -96,29 +96,27 @@ The `/anything` path is an example of an unknown route. Other undefined paths sh
 ### 1. Home Route
 
 Displays the welcome message.
-
-<img width="1917" height="966" alt="home" src="https://github.com/user-attachments/assets/14ecb387-3c48-47c9-b719-4e94e737d544" />
-
+![Home route response](screenshots/home.png)
 
 ### 2. About Route
 
 Displays the student's name and section in JSON format.
 
-<img width="1917" height="967" alt="about" src="https://github.com/user-attachments/assets/444c9bae-54b0-440c-82f2-8a95d8fa17b7" />
+![About route response](screenshots/about.png)
 
 
 ### 3. Time Route
 
 Displays the current date and time.
 
-<img width="1917" height="967" alt="time" src="https://github.com/user-attachments/assets/7dbe3a79-99c7-4a9c-8e45-ec950203cdd1" />
+![Time route response](screenshots/time.png)
 
 
 ### 4. Unknown Route
 
 Displays the 404 Page Not Found response.
 
-<img width="1917" height="971" alt="not-found" src="https://github.com/user-attachments/assets/6aa7cd4b-99b1-4bec-9384-a43f2dc35bf9" />
+![404 route response](screenshots/not-found.png)
 
 
 ## HTTP Status Codes
