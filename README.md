@@ -10,7 +10,7 @@
 
 ## Live Link
 
-**Deployment URL:** https://YOUR-DEPLOYMENT-URL
+**Deployment URL:** https://lab-report1.vercel.app
 
 ## Objective
 
